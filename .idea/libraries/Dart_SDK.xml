@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/async" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/cli" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/collection" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/convert" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/core" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/developer" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/ffi" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/html" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/indexed_db" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/io" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/isolate" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/js" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/js_interop" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/js_interop_unsafe" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/js_util" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/math" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/mirrors" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/svg" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/typed_data" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/web_audio" />
+      <root url="file:///nix/store/yyi9ipvh82ya1lvbzbbaj26rn8541s3z-dart-3.5.4/lib/web_gl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
