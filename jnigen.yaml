@@ -3,11 +3,14 @@ output:
     path: lib/example.dart
     structure: single_file
 
+source_path:
+  - 'kotlin'
+
 class_path:
   - '/Users/mahdikhashan/tmp/jnigen_example_kotlin/kotlin/target/kotlin_test.jar'
 
 classes:
-  - 'com.github.dart_lang.jnigen'
+  - 'com.github.dart_lang.jnigen.HelloWorld'
 
 log_level: 'all'
 

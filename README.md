@@ -9,5 +9,11 @@ mvn package
 #### Generate bindings
 
 ```bash
-flutter pub run jnigen --config jnigen.yaml
+dart run jnigen --config jnigen.yaml
+```
+
+#### Run
+
+```bash
+dart run jnigen_example_kotlin:hello
 ```
