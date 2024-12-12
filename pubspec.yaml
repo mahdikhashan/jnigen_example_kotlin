@@ -1,7 +1,7 @@
 name: jnigen_example_kotlin
-description: A starting point for Dart libraries or applications.
+description: a simple dart package using jnigen with Kotlin
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/mahdikhashan/jnigen_example_kotlin
 
 environment:
   sdk: ^3.5.4
