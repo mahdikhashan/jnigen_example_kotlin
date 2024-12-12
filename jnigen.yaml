@@ -1,0 +1,15 @@
+output:
+  dart:
+    path: lib/example.dart
+    structure: single_file
+
+class_path:
+  - '/Users/mahdikhashan/tmp/jnigen_example_kotlin/kotlin/target/kotlin_test.jar'
+
+classes:
+  - 'com.github.dart_lang.jnigen'
+
+log_level: 'all'
+
+summarizer:
+  backend: 'asm'
